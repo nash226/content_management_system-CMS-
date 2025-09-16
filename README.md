@@ -14,8 +14,7 @@ Welcome to the **Content Management System (CMS)** project! This repository prov
 ## Technologies Used
 
 - **Python**
-- **Flask** (or Django, if applicable)
-- **SQLAlchemy** (or other ORM/database)
+- **Flask** 
 - **HTML/CSS/JavaScript** (for front end)
 - **Unit Testing** frameworks (see below)
 
@@ -73,3 +72,4 @@ MIT License
 ---
 
 **Author:** [nash226](https://github.com/nash226)
+
